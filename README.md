@@ -1,4 +1,9 @@
-### Hi 👋
+<img align="right" src="https://archive.org/serve/msdos_borland_turbo_c_2.01/BorlandTurboC201-megapack_screenshot.gif" />
+
+## Hi 👋
+
+ - 🔭 I am working at Virta Agency as Systems Development Manager 
+ - 💬 My skills: Java, Node.js, PHP and C++
 
 <!--
 **alanlages/alanlages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
